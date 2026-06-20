@@ -3,20 +3,24 @@ Project Overview
 
 This project analyzes the US Superstore dataset (2014–2017) to identify sales trends, profitability, customer behavior, and regional performance. The project was completed using Excel for data analysis and Power BI for dashboard creation.
 
-##Tools Used
-##Microsoft Excel
-##Power BI Desktop
-##GitHub
+Tools Used
+Microsoft Excel
+Power BI Desktop
+GitHub
 Dataset Information
+
 Total Records: 9,994
 Total Orders: 5,009
 Time Period: 2014 – 2017
+
 Regions: West, East, Central, South
 Categories: Furniture, Office Supplies, Technology
+
 Dashboard KPIs
 Total Sales: $2.30M
 Total Profit: $286.40K
 Total Orders: 5,009
+
 Key Insights
 West region generated the highest sales and profit.
 South region recorded the lowest sales performance.
@@ -25,6 +29,7 @@ Furniture generated strong sales but comparatively lower profit.
 Tables and Bookcases were identified as loss-making sub-categories.
 Copiers and Phones were among the most profitable products.
 Sales showed an increasing trend from 2014 to 2017.
+
 Business Recommendations
 Reduce excessive discounts on Tables and Bookcases.
 Increase focus on Technology products.
