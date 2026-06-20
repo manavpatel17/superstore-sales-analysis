@@ -32,6 +32,10 @@ Improve sales performance in the South region.
 Investigate profit challenges in the Central region.
 Develop loyalty programs for high-value customers.
 Dashboard Preview
+<img width="1727" height="807" alt="Screenshot 2026-06-20 151041" src="https://github.com/user-attachments/assets/557d6250-555f-4e74-a2dc-d11618ab9344" />
+<img width="1732" height="802" alt="Screenshot 2026-06-20 151010" src="https://github.com/user-attachments/assets/f0384aeb-5f62-4f04-afd2-4b00a3cc815a" />
+<img width="1521" height="787" alt="Screenshot 2026-06-20 145838" src="https://github.com/user-attachments/assets/911c7a4b-45e2-4b6c-a7c0-10d8d212b44d" />
+
 
 Add your dashboard screenshot here after uploading it to the repository.
 
