@@ -3,10 +3,10 @@ Project Overview
 
 This project analyzes the US Superstore dataset (2014–2017) to identify sales trends, profitability, customer behavior, and regional performance. The project was completed using Excel for data analysis and Power BI for dashboard creation.
 
-Tools Used
-Microsoft Excel
-Power BI Desktop
-GitHub
+##Tools Used
+##Microsoft Excel
+##Power BI Desktop
+##GitHub
 Dataset Information
 Total Records: 9,994
 Total Orders: 5,009
@@ -31,7 +31,8 @@ Increase focus on Technology products.
 Improve sales performance in the South region.
 Investigate profit challenges in the Central region.
 Develop loyalty programs for high-value customers.
-Dashboard Preview
+
+##Dashboard Preview:
 <img width="1727" height="807" alt="Screenshot 2026-06-20 151041" src="https://github.com/user-attachments/assets/557d6250-555f-4e74-a2dc-d11618ab9344" />
 <img width="1732" height="802" alt="Screenshot 2026-06-20 151010" src="https://github.com/user-attachments/assets/f0384aeb-5f62-4f04-afd2-4b00a3cc815a" />
 <img width="1521" height="787" alt="Screenshot 2026-06-20 145838" src="https://github.com/user-attachments/assets/911c7a4b-45e2-4b6c-a7c0-10d8d212b44d" />
