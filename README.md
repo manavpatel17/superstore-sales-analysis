@@ -47,11 +47,17 @@ Add your dashboard screenshot here after uploading it to the repository.
 
 Project Structure
 superstore-sales-analysis
+
 │
+
 ├── Cleaned_Data
+
 ├── PowerBI
+
 ├── Dashboard_Screenshots
+
 ├── Documentation
+
 └── README.md
 Author
 
