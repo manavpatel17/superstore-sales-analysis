@@ -1,7 +1,7 @@
 # 📊 Superstore Sales Analysis Dashboard
 
 <p align="center">
-  <img src="Dashboard_Screenshots/dashboard.png" width="100%">
+  <img src="D:\Data Analysis\Superstore Analysis Project (Kaggel)\4. Screenshorts">
 </p>
 
 <p align="center">
@@ -224,7 +224,7 @@ This dashboard enables management to:
 
 ### Connect with me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/manav-patel-6b646b311
+- 💼 LinkedIn: https://www.linkedin.com/in/patelmanav2004
 - 💻 GitHub: https://github.com/manavpatel17
 
 ---
